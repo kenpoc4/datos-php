@@ -64,3 +64,5 @@ var_dump( array_pop( $courses ) );
 var_dump($courses);
 echo "</pre>";
 
+//array_diff( $courses, $tecnologias ); // Devuelve la diferencia entre $courses y $tecnologias
+//array_push( $courses ); // Agrega el último dato al array
